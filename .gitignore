@@ -1,3 +1,6 @@
 node_modules
 
+# build folder does not need to be in repo
+dist
+
 .env
